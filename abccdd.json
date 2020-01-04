@@ -40,7 +40,7 @@
           "type": "text",
           "label": "What is your second name?",
           "shortName": "Second name",
-          "format": "number(1,5, 'undefined')"
+          "format": "number(1,5)"
         },
         {
           "id": "catOwner",

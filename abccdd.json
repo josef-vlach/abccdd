@@ -33,10 +33,7 @@
           "type": "text",
           "label": "What is your first name?",
           "shortName": "First name",
-          "format": "positiveNumber",
-          "maxWholeDigits": "11",
-          "maxFractionalDigits": "22",
-          "unit": "kg"
+          "format": "positiveNumber(11,22, 'kg')"
         },
         {
           "id": "secondName",

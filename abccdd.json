@@ -57,7 +57,7 @@
           "id": "catsNumber",
           "type": "text",
           "label": "How many cats do you have?",
-          "format": "text(1,20)"
+          "format": "text(10,20)"
         }
       ]
     }

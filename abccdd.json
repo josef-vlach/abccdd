@@ -33,6 +33,12 @@
           "type": "text",
           "label": "What is your first name?",
           "shortName": "Your first name"
+        },
+        {
+          "id": "secondName",
+          "type": "text",
+          "label": "What is your second name?",
+          "shortName": "Second name"
         }
       ]
     }

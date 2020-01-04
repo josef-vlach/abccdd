@@ -2,7 +2,7 @@
   "authConfig": {
     "authModule": "anonymous"
   },
-  "developmentPhase": "beta",
+  "developmentPhase": "live",
   "formName": "Hello World ABC",
   "destinations": [
     {

@@ -56,7 +56,7 @@
         {
           "id": "catsNumber",
           "type": "text",
-          "label": "How many cat do you have?",
+          "label": "How many cats do you have?",
           "format": "number"
         }
       ]

@@ -52,7 +52,14 @@
     {
       "includeIf": "${catOwner contains 0}",
       "title": "Cats detail",
-      "fields": []
+      "fields": [
+        {
+          "id": "catsNumber",
+          "type": "text",
+          "label": "How many cat do you have?",
+          "format": "number"
+        }
+      ]
     }
   ]
 }

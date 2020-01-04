@@ -50,6 +50,7 @@
       ]
     },
     {
+      "includeIf": "${catOwner contains 0}",
       "title": "Cats detail",
       "fields": []
     }

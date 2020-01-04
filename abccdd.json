@@ -50,6 +50,12 @@
           "round": "ceiling"
         },
         {
+          "id": "catOrDog",
+          "type": "text",
+          "label": "Cat or dog description",
+          "format": "shortText(10,30)"
+        },
+        {
           "id": "catOwner",
           "type": "choice",
           "label": "Do you own a cat?",

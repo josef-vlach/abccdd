@@ -33,7 +33,7 @@
           "type": "text",
           "label": "What is your first name?",
           "shortName": "First name",
-          "format": "text(123,456)"
+          "format": "shortText(123,456)"
         },
         {
           "id": "secondName",

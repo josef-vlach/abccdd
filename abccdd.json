@@ -33,7 +33,9 @@
           "type": "text",
           "label": "What is your first name?",
           "shortName": "First name",
-          "format": "shortText(123,456)"
+          "format": "positiveWholeNumber",
+          "min": "123",
+          "max": "456"
         },
         {
           "id": "secondName",

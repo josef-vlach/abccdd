@@ -27,7 +27,14 @@
   "sections": [
     {
       "title": "Title",
-      "fields": []
+      "fields": [
+        {
+          "id": "firstCompo",
+          "type": "text",
+          "label": "What is your first name?",
+          "shortName": "Your first name"
+        }
+      ]
     }
   ]
 }

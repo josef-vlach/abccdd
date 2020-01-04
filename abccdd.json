@@ -43,6 +43,15 @@
           "format": "number(1,5,'piv')"
         },
         {
+          "id": "piv",
+          "type": "text",
+          "label": "How much piv do you want?",
+          "format": "number",
+          "maxWholeDigits": "10",
+          "maxFractionalDigits": "20",
+          "round": "ceiling"
+        },
+        {
           "id": "catOwner",
           "type": "choice",
           "label": "Do you own a cat?",

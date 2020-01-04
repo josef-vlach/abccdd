@@ -41,6 +41,10 @@
           "shortName": "Second name"
         }
       ]
+    },
+    {
+      "title": "Cats detail",
+      "fields": []
     }
   ]
 }

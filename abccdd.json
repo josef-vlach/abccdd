@@ -2,7 +2,7 @@
   "authConfig": {
     "authModule": "anonymous"
   },
-  "formName": "",
+  "formName": "Hello World",
   "destinations": [
     {
       "id": "transitionToSubmitted",

@@ -33,7 +33,7 @@
           "type": "text",
           "label": "What is your first name?",
           "shortName": "First name",
-          "format": "positiveWholeNumber"
+          "format": "positiveNumber"
         },
         {
           "id": "secondName",

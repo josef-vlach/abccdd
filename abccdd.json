@@ -39,6 +39,13 @@
           "type": "text",
           "label": "What is your second name?",
           "shortName": "Second name"
+        },
+        {
+          "id": "catOwner",
+          "type": "choice",
+          "label": "Do you own a cat?",
+          "choices": [],
+          "format": "yesno"
         }
       ]
     },

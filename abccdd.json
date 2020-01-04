@@ -57,7 +57,9 @@
           "id": "catsNumber",
           "type": "text",
           "label": "How many cats do you have?",
-          "format": "email"
+          "format": "text",
+          "min": "111",
+          "max": "222"
         }
       ]
     }

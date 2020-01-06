@@ -59,6 +59,7 @@
           "id": "catOwner",
           "type": "choice",
           "label": "Do you own a cat?",
+          "helpText": "Do you need help",
           "choices": [],
           "format": "yesno"
         }

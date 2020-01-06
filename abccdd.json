@@ -46,6 +46,7 @@
           "id": "piv",
           "type": "text",
           "label": "How much piv do you want?",
+          "helpText": "Tell us about your piv",
           "format": "number(2,3)",
           "round": "ceiling"
         },

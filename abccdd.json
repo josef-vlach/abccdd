@@ -47,6 +47,7 @@
           "type": "text",
           "label": "How much piv do you want?",
           "helpText": "Tell us about your piv",
+          "errorMessage": "Bla Bla Bkaa",
           "format": "number(2,3)",
           "round": "ceiling"
         },

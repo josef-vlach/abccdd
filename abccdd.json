@@ -54,7 +54,8 @@
         {
           "id": "catOrDog",
           "type": "date",
-          "label": "Cat or dog description"
+          "label": "Cat or dog description",
+          "value": "today"
         },
         {
           "id": "catOwner",

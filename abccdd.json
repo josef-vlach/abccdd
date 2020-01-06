@@ -58,11 +58,9 @@
         },
         {
           "id": "catOwner",
-          "type": "choice",
+          "type": "date",
           "label": "Do you own a cat?",
-          "helpText": "Do you need help",
-          "choices": [],
-          "format": "yesno"
+          "helpText": "Do you need help"
         }
       ]
     },

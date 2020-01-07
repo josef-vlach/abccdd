@@ -65,7 +65,7 @@
           "label": "Do you own a cat?",
           "helpText": "Do you need help",
           "offset": "+2d",
-          "format": "after ${catOrDog}, precisely YYYY-MM-lastDay"
+          "format": "after ${catOrDog}, precisely YYYY-MM-lastDay, before today 5"
         }
       ]
     },

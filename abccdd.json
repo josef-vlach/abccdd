@@ -61,7 +61,8 @@
           "id": "catOwner",
           "type": "date",
           "label": "Do you own a cat?",
-          "helpText": "Do you need help"
+          "helpText": "Do you need help",
+          "format": "after ${catOrDog}, precisely YYYY-MM-lastDay"
         }
       ]
     },

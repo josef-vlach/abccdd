@@ -64,7 +64,7 @@
           "type": "date",
           "label": "Do you own a cat?",
           "helpText": "Do you need help",
-          "offset": "-2",
+          "offset": "2",
           "format": "after ${catOrDog}, precisely YYYY-MM-lastDay"
         }
       ]

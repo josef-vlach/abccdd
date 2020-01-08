@@ -31,7 +31,7 @@
         {
           "id": "firstCompo",
           "type": "text",
-          "label": "What is your first name?",
+          "label": "What is your first name 222?",
           "shortName": "First name",
           "format": "positiveNumber(11,22,'ml')",
           "displayWidth": "xxl"

@@ -67,18 +67,6 @@
           "format": "before today 5"
         }
       ]
-    },
-    {
-      "includeIf": "${catOwner contains 0}",
-      "title": "Cats detail",
-      "fields": [
-        {
-          "id": "catsNumber",
-          "type": "text",
-          "label": "How many cats do you have?",
-          "format": "nino"
-        }
-      ]
     }
   ]
 }
